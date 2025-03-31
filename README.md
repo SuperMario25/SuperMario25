@@ -2,7 +2,6 @@
 - 👀 I’m interested in electronics & pinball
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me www.pintronic.be
 
 <!---
 SuperMario25/SuperMario25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
